@@ -1,7 +1,7 @@
 {
 	"name": "sunjiaqiang/page",
 	"description": "分页类",
-	"type": "project",
+	"type": "library",
 	"homepage": "https://github.com/sunjiaqiang/page",
 	"license": "MIT",
 	
