@@ -8,12 +8,7 @@
   "require": {
 	"php": ">=5.3"
     },
-    "repositories": {
-			"packagist": {
-			"type": "composer",
-			"url": "https://packagist.laravel-china.org"
-		}
-    },
+  
 	"authors": [
         {
           "name": "sunjiaqiang",
