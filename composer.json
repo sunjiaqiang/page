@@ -4,7 +4,6 @@
 	"type": "library",
 	"homepage": "https://github.com/sunjiaqiang/page",
 	"license": "MIT",
-	
   "require": {
 	"php": ">=5.3"
     },
