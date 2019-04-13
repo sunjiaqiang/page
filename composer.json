@@ -1,0 +1,24 @@
+{
+	"name": "sunjiaqiang/page",
+	"description": "分页类",
+	"type": "project",
+	"homepage": "https://github.com/sunjiaqiang/page",
+	"license": "MIT",
+	
+  "require": {
+	"php": ">=5.3"
+    },
+    "repositories": {
+			"packagist": {
+			"type": "composer",
+			"url": "https://packagist.laravel-china.org"
+		}
+    },
+	"authors": [
+        {
+          "name": "sunjiaqiang",
+          "email": "1355049422@qq.com",
+		  "homepage": "https://github.com/sunjiaqiang/page"
+        }
+    ]
+}
