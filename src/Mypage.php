@@ -1,5 +1,5 @@
 <?php
-namespace Page\Mypage;
+namespace Page;
 /**
  * 自定义分页类
  * 支持ajax
