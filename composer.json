@@ -9,12 +9,12 @@
     },
   "autoload": {
         "psr-4": {
-            "Page\\Mypage\\": "src/"
+            "Page\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Page\\Mypage\\": "tests/"
+            "Page\\": "tests/"
         }
     },
 	"authors": [
