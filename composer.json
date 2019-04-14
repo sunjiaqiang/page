@@ -10,7 +10,10 @@
   "autoload": {
         "psr-4": {
             "Page\\": "src/"
-        }
+        },
+		"files": [
+            "src/Helpers.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
